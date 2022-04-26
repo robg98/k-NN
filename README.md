@@ -11,3 +11,4 @@ Technologies:
 - Numpy
 - Matplotlib
 - Pandas
+- Scikit-learn
