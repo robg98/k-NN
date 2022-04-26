@@ -9,5 +9,5 @@ Features:
 
 Technologies:
 - Numpy
-- matplotlib
+- Matplotlib
 - Pandas
